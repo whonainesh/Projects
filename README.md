@@ -104,7 +104,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hello! I'm a passionate web developer with a love for creating clean, responsive, and user-friendly websites. I specialize in HTML, CSS, and JavaScript.</p>
+    <p>Hello! I I am Nikhil!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.</p>
   </section>
 
   <section id="projects" class="projects">
