@@ -4,6 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Your Name | Portfolio</title>
+
+  <!-- Google Font for Video Game Theme -->
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -39,15 +43,25 @@
       border-radius: 8px;
     }
 
-    h1, h2 {
-      color: #333;
+    h1 {
+      font-size: 2rem;
+      margin: 0.5rem 0;
+    }
+
+    h2 {
+      font-family: 'Press Start 2P', cursive;
+      font-size: 24px;
+      color: #ff0055;
+      margin-bottom: 1rem;
+      text-shadow: 2px 2px #000;
     }
 
     .projects .project {
       margin-bottom: 1.5rem;
     }
 
-    .contact-form input, .contact-form textarea {
+    .contact-form input,
+    .contact-form textarea {
       width: 100%;
       padding: 10px;
       margin: 8px 0;
